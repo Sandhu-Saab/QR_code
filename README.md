@@ -21,4 +21,4 @@ Then write a code that is in QR_code.py file
 then you will get output in form of QR code like this
 
 
-![myFirst](https://user-images.githubusercontent.com/79913163/150739169-4eb2238b-a500-453e-ab1a-c985655d77d3.png)
+![FirstQR](https://user-images.githubusercontent.com/79913163/150739652-bc6143e9-8cc1-4869-b540-dabb601b5065.png)
